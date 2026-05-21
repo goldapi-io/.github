@@ -1,4 +1,4 @@
-# 🥇 GoldAPI.io
+# 🥇 GoldAPI.io| Real-Time Gold & Silver JSON REST API
 
 Real-time precious metals infrastructure for developers, businesses and AI agents.
 
@@ -62,7 +62,7 @@ https://www.goldapi.io
 
 📖 API Documentation
 
-https://www.goldapi.io/api-documentation
+https://www.goldapi.io
 
 🔓 OpenAPI Specification
 
@@ -74,11 +74,11 @@ https://www.goldapi.io/llms.txt
 
 ⚡ MCP Documentation
 
-https://www.goldapi.io/mcp
+https://www.goldapi.io/blog/goldapi-mcp-server
 
 💰 Pricing
 
-https://www.goldapi.io/pricing
+https://www.goldapi.io
 
 ---
 
