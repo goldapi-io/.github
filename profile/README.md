@@ -4,22 +4,22 @@ Real-time precious metals infrastructure for developers, businesses and AI agent
 
 GoldAPI.io provides live and historical market data for:
 
-* Gold (XAU)
-* Silver (XAG)
-* Platinum (XPT)
-* Palladium (XPD)
+- Gold (XAU)
+- Silver (XAG)
+- Platinum (XPT)
+- Palladium (XPD)
 
 Build:
 
-* Gold price widgets
-* Bullion dealer systems
-* Jewelry calculators
-* Trading applications
-* Portfolio dashboards
-* AI agents
-* Automation workflows
-* WordPress plugins
-* Internal business tools
+- Gold price widgets
+- Bullion dealer systems
+- Jewelry calculators
+- Trading applications
+- Portfolio dashboards
+- AI agents
+- Automation workflows
+- WordPress plugins
+- Internal business tools
 
 ---
 
@@ -62,7 +62,7 @@ https://www.goldapi.io
 
 📖 API Documentation
 
-https://www.goldapi.io
+https://www.goldapi.io/api-documentation
 
 🔓 OpenAPI Specification
 
@@ -78,15 +78,19 @@ https://www.goldapi.io/blog/goldapi-mcp-server
 
 💰 Pricing
 
-https://www.goldapi.io
+https://www.goldapi.io/
 
 ---
 
-## 🔧 Repositories
+# 🔧 Repositories
+
+## 🤖 AI & Integrations
 
 ### MCP Server
 
 Official MCP server for Claude, ChatGPT, Cursor and AI agents.
+
+Repository:
 
 https://github.com/goldapi-io/goldapi-mcp-server
 
@@ -98,57 +102,115 @@ npm install -g @goldapi/mcp-server
 
 ---
 
-### WordPress Plugin
+### Zapier Integration
 
-Live Gold & Silver Widgets for WordPress.
+GoldAPI.io workflow automation integration.
 
-https://github.com/goldapi-io/goldapi-live-price-widgets
+Repository:
+
+https://github.com/goldapi-io/goldapi-zapier
+
+---
+
+### WordPress Widgets
+
+Live Gold and Silver widgets and shortcodes for WordPress.
+
+Repository:
+
+https://github.com/goldapi-io/goldapi-wordpress-widgets
 
 Features:
 
-* Live Gold prices
-* Live Silver prices
-* Mini charts
-* Widgets
-* Calculator embeds
+- Live Gold prices
+- Live Silver prices
+- Mini charts
+- Price widgets
+- Calculator embeds
 
 ---
 
-### OpenAPI Specification
+# 💻 API Examples & SDKs
 
-Official OpenAPI schema for GoldAPI.
+### JavaScript
 
-https://github.com/goldapi-io/goldapi-openapi
+JavaScript example for calling the live price API.
 
----
-
-### Examples & SDKs
-
-Examples and starter integrations.
-
-https://github.com/goldapi-io/goldapi-examples
-
-Planned SDKs:
-
-* JavaScript
-* Python
-* .NET
-* PHP
-* Go
+https://github.com/goldapi-io/gold-api-examples-js
 
 ---
 
-## 🤖 AI Agent Ecosystem
+### Node.js / TypeScript
+
+Node.js and TypeScript example project.
+
+https://github.com/goldapi-io/gold-api-examples-node-js
+
+---
+
+### Python
+
+Python example using standard library HTTP calls.
+
+https://github.com/goldapi-io/gold-api-examples-python
+
+---
+
+### Ruby
+
+Ruby example using net/http and environment variables.
+
+https://github.com/goldapi-io/gold-api-examples-ruby
+
+---
+
+### Go
+
+Go example for live precious metals pricing.
+
+https://github.com/goldapi-io/gold-api-examples-go
+
+---
+
+### .NET Core
+
+.NET Core example project.
+
+https://github.com/goldapi-io/gold-api-examples-net-core
+
+---
+
+### Google Sheets
+
+Google Sheets Apps Script integration example.
+
+https://github.com/goldapi-io/gold-api-examples-google-sheet
+
+---
+
+### Excel
+
+Examples for:
+
+- Office Scripts
+- VBA
+- Power Query
+
+https://github.com/goldapi-io/gold-api-examples-excel
+
+---
+
+# 🤖 AI Agent Ecosystem
 
 GoldAPI is building tools for AI-powered workflows:
 
-* OpenAPI
-* MCP Server
-* llms.txt
-* ChatGPT Actions
-* Claude integrations
-* Cursor integrations
-* Automation workflows
+- OpenAPI
+- MCP Server
+- llms.txt
+- ChatGPT Actions
+- Claude integrations
+- Cursor integrations
+- Automation workflows
 
 Example prompts:
 
@@ -164,13 +226,13 @@ Compare Gold and Silver performance.
 
 ---
 
-## 🌎 Supported Currencies
+# 🌎 Supported Currencies
 
 AED • AUD • BTC • CAD • CHF • CNY • CZK • EGP • EUR • GBP • HKD • INR • JOD • JPY • KRW • KWD • MXN • MYR • OMR • PLN • RUB • SAR • SGD • THB • USD • ZAR
 
 ---
 
-## ❤️ Built by GoldAPI.io
+# ❤️ Built by GoldAPI.io
 
 Website:
 
